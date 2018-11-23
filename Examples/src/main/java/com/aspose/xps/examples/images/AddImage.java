@@ -15,7 +15,7 @@ public class AddImage {
      */
     public static void main(String[] args) throws Exception
     {       
-        //ExStart:AddImage
+        // ExStart:AddImage
         // The path to the documents directory.
         String dataDir = Utils.getDataDir();       
         // Create new XPS Document
