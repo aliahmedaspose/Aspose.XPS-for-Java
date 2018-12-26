@@ -19,7 +19,7 @@ Directory | Description
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.XPS for Java](https://products.aspose.com/xps/java)
-+ **Download:** [Download Aspose.XPS for Java](https://artifact.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-xps)
++ **Download:** [Download Aspose.XPS for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-xps)
 + **Documentation:** [Aspose.XPS for Java Documentation](https://docs.aspose.com/display/xpsjava/Home)
 + **Free Support:** [Aspose.XPS for Java Free Support Forum](https://forum.aspose.com/c/xps)
 + **Paid Support:** [Aspose.XPS for Java Paid Support Forum](https://helpdesk.aspose.com/)
